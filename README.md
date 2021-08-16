@@ -1,2 +1,2 @@
 # Programas-C
- Respositório com os programas  formulados em linguagem c
+ Respositório com os meus programas  formulados em linguagem c
